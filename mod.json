@@ -1,0 +1,11 @@
+{
+  "name": "mind",
+  "displayName": "Arcus Mod",
+  "author": "Thomas's Things",
+  "description": "A translation and expansion of one of my mods.",
+  "version": "1.0",
+  "main": "am.ArcusMod",
+  "minGameVersion": "123",
+  "dependencies": [],
+  "hidden": false
+}
