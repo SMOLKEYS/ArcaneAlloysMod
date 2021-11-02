@@ -1,4 +1,4 @@
-package mjm.content;
+package aam.content;
 
 import arc.graphics.*;
 import arc.graphics.g2d.*;
