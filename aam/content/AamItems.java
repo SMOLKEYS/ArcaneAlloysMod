@@ -1,4 +1,4 @@
-package am.content;
+package aam.content;
 
 import arc.*;
 import arc.graphics.*;
