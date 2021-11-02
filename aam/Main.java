@@ -1,4 +1,4 @@
-package am;
+package aam;
 
 import arc.*;
 import arc.func.*;
