@@ -4,6 +4,6 @@
   "author": "Thomas's Things",
   "description": "A translation and expansion of one of my mods.",
   "version": "1.0",
-  "main": "aam.ArcaneAlloysMod",
+  "main": "aam.Main",
   "minGameVersion": "123",
 }
