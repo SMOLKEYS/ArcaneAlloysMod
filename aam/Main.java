@@ -23,14 +23,14 @@ import static mindustry.Vars.*;
 public class ArcaneAlloysMod extends Mod{
 
     private final ContentList[] aamContent = {
-            new AamLiquids(),
-            new AamItems(),
-            //new AamBullets(),
-            //new AamUnits(),
-            new AamBlocks(),
-            //new AamSectors(),
-            //new AamPlanets(),
-            new AamTechTree()
+            new aamLiquids(),
+            new aamItems(),
+            //new aamBullets(),
+            //new aamUnits(),
+            new aamBlocks(),
+            //new aamSectors(),
+            //new aamPlanets(),
+            new aamTechTree()
     };
 
     @Override
